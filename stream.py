@@ -4,8 +4,8 @@ import time
 import os
 
 # Google Drive IDs
-video_drive_id = "1rGAcB4auk5ntD2KuOQNCGN-okczz3smv"  # 30s video
-audio_drive_id = "13YYoBHTe_ALhu1B4XaCnbFwMU1RAePc3"   # 1h30 audio
+video_drive_id = "1HGw75lxsOy3TLxBT_ZvhCPM89ngvRfYZ"  # 30s video
+audio_drive_id = "1BQYaktyT3_iPBX-HGY971DqIXEnci9QD"   # 1h30 audio
 
 # Local file names
 video_file = "video_30p.mp4"
